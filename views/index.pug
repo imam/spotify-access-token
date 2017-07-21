@@ -1,0 +1,10 @@
+html
+	head
+		title Spotify Get Access Token
+	body
+		h1 Input your application detail
+		form(method="post", action="/app_detail")
+			input(type="text",placeholder="Client ID" ,name="id", value=id)
+			input(type="text",placeholder="Client Secret",name="secret", value=secret)
+			button(type="submit") Submit
+		a(href="/token") Get the token
