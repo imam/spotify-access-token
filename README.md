@@ -3,7 +3,7 @@
 ![http://imageshack.com/a/img922/3273/J6ZXrX.gif](http://imageshack.com/a/img922/3273/J6ZXrX.gif)
 
 Getting the access token as easy as:
-1. Cloning this repo
+1. Clone this repo
 2. `npm install` (or `yarn install` if you're using yarn) in the directory
 3. `node .`, the application should be running on `localhost:8000` by default
 4. Create a new application on Spotify developer ([developer.spotify.com](developer.spotify.com))
