@@ -1,6 +1,7 @@
 # spotify-access-token
 
 ![http://imageshack.com/a/img922/3273/J6ZXrX.gif](http://imageshack.com/a/img922/3273/J6ZXrX.gif)
+
 [https://youtu.be/DDueEn7mxmg](https://youtu.be/DDueEn7mxmg)
 
 Getting the access token as easy as:
